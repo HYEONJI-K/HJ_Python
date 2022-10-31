@@ -1,3 +1,3 @@
-# HJ_Python
+# Python Study
 
-* 2020 ~ 2021 Python 공부 정리
+- [2020 ~ 2021]()
