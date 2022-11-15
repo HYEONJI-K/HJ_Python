@@ -4,9 +4,9 @@
 ### 1주차
 - [데이터 분석 환경 구성 & 데이터 분석 준비하기](https://github.com/HYEONJI-K/Python/blob/master/Data_Science_study/1_week.ipynb)
 ### 2주차
-- 서울 종합병원의 분포 알아보기
+- [서울 종합병원의 분포 알아보기](https://github.com/HYEONJI-K/Python/blob/master/Data_Science_study/2_week.ipynb)
 ### 3주차
-- 건강검진 데이터로 가설 검정하기
+- [건강검진 데이터로 가설 검정하기](https://github.com/HYEONJI-K/Python/blob/master/Data_Science_study/3_week.ipynb)
 ### 4주차
 - K-beauty 온라인 판매 분석
 ---
