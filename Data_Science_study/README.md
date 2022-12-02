@@ -8,7 +8,7 @@
 ### 3주차
 - [건강검진 데이터로 가설 검정하기](https://github.com/HYEONJI-K/Python/blob/master/Data_Science_study/3_week.ipynb)
 ### 4주차
-- K-beauty 온라인 판매 분석
+- [K-beauty 온라인 판매 분석](https://github.com/HYEONJI-K/Python/blob/master/Data_Science_study/4_week.ipynb)
 ---
 >- 데이터 사이언스 이해력 향상
 >- 파이썬 데이터 사이언스 프로젝트
